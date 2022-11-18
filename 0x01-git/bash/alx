@@ -1,1 +1,2 @@
--e#!/bin/bash\necho "ALX"
+e#!/bin/bash
+echo "ALX School is so cool!"
